@@ -820,18 +820,4 @@ terraform apply
 - Update documentation
 - Test in dev environment first
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
-
-**Abhigya Krishna**
-
-- GitHub: [@AbhigyaKrishna](https://github.com/AbhigyaKrishna)
-
-## 🙏 Acknowledgments
-
-- HashiCorp Terraform documentation
-- Microsoft Azure documentation
-- Open source community
